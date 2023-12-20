@@ -1,2 +1,2 @@
-# sports_mariam
+# sports_club
 website using html , css and javascript
